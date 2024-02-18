@@ -1,7 +1,7 @@
 
 ![Banner](./banner.png)
 
-Hey there!, a first-year student at Inholland University in Software Engeneering, and I'm passionate about technology, coding, and continuous learning. Welcome to my GitHub profile where you'll find a collection of my projects, contributions, and experiments in the world of software development.
+I am a first-year student at Inholland University in Software Engeneering, and I'm passionate about technology, coding, and continuous learning. Welcome to my GitHub profile where you'll find a collection of my projects, contributions, and experiments in the world of software development.
 
 <br>
 
