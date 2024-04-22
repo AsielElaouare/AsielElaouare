@@ -36,11 +36,3 @@ I am a first-year student at Inholland University in Software Engeneering, and I
 Here you'll find my blogs, learning paths, and projects that show my journey and skills in the tech world. Come along as I learn and grow in IT. [asiel-elaouare.com ](https://asiel-elaouare.com)
 
 ![Website SS](./website.png)
-
-
-
-Feel free to reach out for collaborations, discussions, or just to say hi! 😊
-
-Thanks for visiting!
-
-
