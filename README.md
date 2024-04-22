@@ -29,6 +29,7 @@ I am a first-year student at Inholland University in Software Engeneering, and I
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsielElaouare&theme=dark&size_weight=0.5&count_weight=0.5)
 <br>
 
 ## My Website
