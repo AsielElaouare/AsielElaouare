@@ -29,8 +29,7 @@ I am a first-year student at Inholland University in Software Engeneering, and I
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsielElaouare&theme=dark&size_weight=0.5&count_weight=0.5)
-<br>
+
 
 ## My Website
 Here you'll find my blogs, learning paths, and projects that show my journey and skills in the tech world. Come along as I learn and grow in IT. [asiel-elaouare.com ](https://asiel-elaouare.com)
