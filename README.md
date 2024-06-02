@@ -9,7 +9,7 @@ I am a first-year student at Inholland University in Software Engeneering, and I
 
 -  Currently pursuing my Bachelor's degree in IT at Inholland University.
 -  Always eager to learn new technologies and improve my coding skills.
--  I document my learning journey, projects, and thoughts on my [website](https://asiel-elaouare.com), where you can find insightful blogs and detailed learning paths.
+-  I document my learning journey, projects, and thoughts on my [website](https://portfolio.asiel-elaouare.com), where you can find insightful blogs and detailed learning paths.
 
  <br>
 
