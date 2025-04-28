@@ -1,7 +1,7 @@
 
 ![Banner](./banner.png)
 
-I am a first-year student at Inholland University in Software Engeneering, and I'm passionate about technology, coding, and continuous learning. Welcome to my GitHub profile where you'll find a collection of my projects, contributions, and experiments in the world of software development.
+I am a second year student at Inholland University in Software Engeneering, and I'm passionate about technology, coding, and continuous learning. Welcome to my GitHub profile where you'll find a collection of my projects, contributions, and experiments in the world of software development.
 
 <br>
 
@@ -16,8 +16,7 @@ I am a first-year student at Inholland University in Software Engeneering, and I
  
 ## My Toolbox
 
-<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
@@ -27,6 +26,13 @@ I am a first-year student at Inholland University in Software Engeneering, and I
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 <img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img width="50px" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+
 
 
 
